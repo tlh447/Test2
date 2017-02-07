@@ -51,7 +51,7 @@ public class Generate {
             bw.write(eventEnd);
             bw.write(calEnd);
 
-
+            System.out.println("STuff");
             bw.close();
 
 
